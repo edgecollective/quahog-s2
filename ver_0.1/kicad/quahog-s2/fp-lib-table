@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name footprints)(type KiCad)(uri /home/dwblair/gitwork/quahog-s2/ver_0.1/kicad/footprints)(options "")(descr ""))
+)
